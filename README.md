@@ -1,7 +1,7 @@
 # Lobibox
 Responsive jQuery notification plugin written from scratch.
 
-[View Demo]([http://lobianijs.com/site/lobibox-responsive-jquery-messagebox-and-notification-plugin-available-for-commercial-and-non-commercial-usages.html](https://web.archive.org/web/20160930070629/http://lobianijs.com/site/lobibox))
+[View Demo](https://www.jqueryscript.net/demo/Responsive-jQuery-Message-Box-Notification-Plugin-lobibox/)
 
 ### Description
 
@@ -1338,4 +1338,4 @@ Default Info Warning Error Success
 
 Disqus seems to be taking longer than usual. [Reload](#)?
 
-### For documentation and examples visit the plugin's [home page]([http://lobianijs.com/site/lobibox-responsive-jquery-messagebox-and-notification-plugin-available-for-commercial-and-non-commercial-usages.html](https://web.archive.org/web/20160930070629/http://lobianijs.com/site/lobibox))
+### For documentation and examples visit the plugin's [home page](https://www.jqueryscript.net/demo/Responsive-jQuery-Message-Box-Notification-Plugin-lobibox/)
